@@ -3,4 +3,4 @@ A flutter app that allows you to plot track your emotions (happy, sad, neutral) 
 
 <img align="left" src="Homescreen.png" width="200">
 <img align="center" src="Calender.png" width="200">
-<img align="right" src="Pie.png" width="200">
+<img align="" src="Pie.png" width="200">
