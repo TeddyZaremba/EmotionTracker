@@ -5,8 +5,8 @@ A flutter app that allows you to plot track your emotions (happy, sad, neutral) 
 
 To run the app from the command line, open an emulator and run the following commands.
 ```bash
-cd src
-flutter run lib/main.dart
+$ cd src
+$ flutter run lib/main.dart
 ```
 
 <img align="left" src="Homescreen.png" width="150">
