@@ -11,4 +11,4 @@ flutter run lib/main.dart
 
 <img align="left" src="Homescreen.png" width="150">
 <img align="center" src="Calender.png" width="150">
-<img align="right" src="Pie.png" width="150">
+<img align="center" src="Pie.png" width="150">
